@@ -5,11 +5,14 @@
 # Usage:
 `git@github.com:ErikParacelsus/githubprofilecheat3.git`
 
- After that
+#After that
+ 
  `cd githubprofilecheat3`
- and
+#and
+ 
  `ruby grapher.rb`
  
- Let it loads, when it finish do:
+#Let it loads, when it finish do:
+ 
  `git push 
 
