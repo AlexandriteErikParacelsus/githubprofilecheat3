@@ -14,5 +14,5 @@
  
 #Let it loads, when it finish do:
  
- `git push 
+ `$ git push -u origin master`
 
