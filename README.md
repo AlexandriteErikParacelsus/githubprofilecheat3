@@ -7,7 +7,7 @@ GitHub Profile Cheat ![License MIT](https://go-shields.herokuapp.com/license-MIT
  
  All credits goes to Will (his repo: [will/githubprofilecheat](https://github.com/will/githubprofilecheat))
  
-## Usage:
+## :bookhack: Usage:
  fork this project and git clone the repo you just fork
  
  `$ git@github.com:<yourusername>/githubprofilecheat3.git`
