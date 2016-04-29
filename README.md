@@ -23,7 +23,7 @@ GitHub Profile Cheat ![License MIT](https://go-shields.herokuapp.com/license-MIT
  `$ git push -u origin master`
 
 ## :yum: Contributing
-You can help us to improve this repo by submitting a [Pull Request](https://github.com/ErikParacelsus/githubprofilecheat3/pulls) on our GitHub page.
+You can help us to improve this repo by submitting a [Pull Request](https://github.com/ErikParacelsus/githubprofilecheat3/pulls) on our GitHub page or submit an [Issue](https://github.com/ErikParacelsus/githubprofilecheat3/issues).
 
 ## :scroll: License
 MIT
