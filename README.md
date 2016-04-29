@@ -19,4 +19,6 @@
  
  `$ git push -u origin master`
 
-#Enjoy :) :octocat:
+:octocat: Contributing
+
+You can help us to improve this repo by submitting a Pull Request or issue on our GitHub page.
