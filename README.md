@@ -19,6 +19,6 @@
  
  `$ git push -u origin master`
 
-:octocat: #Contributing
+#:octocat: Contributing
 
 You can help us to improve this repo by submitting a Pull Request or issue on our GitHub page.
