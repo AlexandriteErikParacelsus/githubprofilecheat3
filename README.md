@@ -1,4 +1,5 @@
 # GitHub Profile Cheat
+[![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#)
  
  All credits goes to Will (his repo: will/githubprofilecheat)
  
