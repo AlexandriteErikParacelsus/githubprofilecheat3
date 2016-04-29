@@ -25,5 +25,5 @@ GitHub Profile Cheat ![License MIT](https://go-shields.herokuapp.com/license-MIT
 ## :yum: Contributing
 You can help us to improve this repo by submitting a [Pull Request](https://github.com/erikparcelsus/githubprofilecheat3/pulls) on our GitHub page.
 
-## :scroll:License
+## :scroll: License
 MIT
