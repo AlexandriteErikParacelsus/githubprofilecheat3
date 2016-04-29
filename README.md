@@ -1,5 +1,5 @@
 # GitHub Profile Cheat
-[![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#)
+[![Pay](https://img.shields.io/badge/%24-free-%23a10000.svg)](#) [![GitHub issues](https://img.shields.io/github/issues/erikparacelsus/githubprofilecheat3.svg)]
  
  All credits goes to Will (his repo: will/githubprofilecheat)
  
