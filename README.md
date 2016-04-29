@@ -6,12 +6,13 @@
  All credits goes to Will (his repo: will/githubprofilecheat)
  
 # Usage:
-`$ git@github.com:ErikParacelsus/githubprofilecheat3.git`
+ fork this project and git clone the repo you just fork
+ 
+ `$ git@github.com:<yourusername>/githubprofilecheat3.git`
 
-#After that
  
  `$ cd githubprofilecheat3`
-#and
+
  
  `$ ruby grapher.rb`
  
