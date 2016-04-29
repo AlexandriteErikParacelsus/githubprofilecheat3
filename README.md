@@ -6,7 +6,7 @@ GitHub Profile Cheat
  
  All credits goes to Will (his repo: will/githubprofilecheat)
  
-# Usage:
+## Usage:
  fork this project and git clone the repo you just fork
  
  `$ git@github.com:<yourusername>/githubprofilecheat3.git`
@@ -17,7 +17,7 @@ GitHub Profile Cheat
  
  `$ ruby grapher.rb`
  
-#Let it loads, when it finish do:
+## Let it loads, when it finish do:
  
  `$ git push -u origin master`
 
